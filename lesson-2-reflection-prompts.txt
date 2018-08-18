@@ -17,7 +17,12 @@ wach commit has one logic
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+adding new experimental streams of work
+
 How do the diagrams help you visualize the branch structure?
+
+make it easier to understand
+clearly shows the parent commit IDs
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
