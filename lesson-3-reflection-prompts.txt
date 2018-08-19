@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 as GitHub is setup as public account in most cases, it would create problems
 people would be able to see my WIP stuff which could be wrong
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks used when we want to modify someone's repository but dont have permission
+clone is to copy contents from remote to local repository or make local copies of same repository
+branch is used for making new streams within same repository (like when you want to experiment with the code)
