@@ -32,3 +32,6 @@ diagram makes it easier to visualize
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatic merging can lead to wrong merges in case of dependencies
+However if changes are in totally different code then fine
