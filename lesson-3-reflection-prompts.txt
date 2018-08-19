@@ -17,3 +17,9 @@ branch is used for making new streams within same repository (like when you want
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 we can compare changes between local copy and changes introduced on remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+sharing emails and dividing work
+easier that i dont have to go through complicated commands
+harder as the colloboration would be less streamlined
