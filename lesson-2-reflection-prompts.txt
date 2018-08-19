@@ -27,5 +27,8 @@ clearly shows the parent commit IDs
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+a new file that contains commits of both branches
+diagram makes it easier to visualize
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
